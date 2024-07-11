@@ -11,13 +11,13 @@ Prior to this lesson, students can derive an inverse function and verify _f(f<su
 his lesson will apply procedural mathematical knowledge of “undoing” a mathematical operation at multiple levels of mathematics. Adapted for either high school College Algebra/Pre-Calculus students learning about inverse functions and for Calculus students learning derivatives and antiderivatives. 
 ## Applicable First Principles &/or Concepts: 
 ### GenCyberFirst Principles
-* Domain Seperation
-* Abstraction
+* **Domain Seperation**
+* **Abstraction**
 * Process Isolation
-* Data Hiding
+* **Data Hiding**
 * Resource Encapsulation
 * Layering
 * Modularity
 * Simplicity
-* Least Privilege
+* **Least Privilege**
 * Minimization
